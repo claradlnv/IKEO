@@ -1,0 +1,20 @@
+.item-list {
+    height: 400px;
+    width: 300px;
+    border-radius: 12px;
+    border: 1px solid black;
+    margin-inline-start: 63px;
+    margin-block-start: 50px;
+}
+
+.item-list-img {
+    margin-inline: 25px;
+    margin-block-start: 22px;
+    margin-block-end: 23px;
+    width: 250px;
+    height: 250px;
+}
+
+.item-list-info {
+    margin-inline-start: 25px;
+}
